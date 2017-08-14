@@ -1,8 +1,8 @@
 [
-{"name":"flare.Macro_Resonances","size":1,"imports":["flare.EscherGeometry","flare.Mandalas(ShapeofSpaceBook)","flare.IlyaPrigogine"]},
-{"name":"flare.Astrophysics","size":2,"imports":["flare.Penrose_ConformalCyclicCosmology","flare.VeraRubin_DarkMatter"]},
-{"name":"flare.Math","size":3,"imports":["flare.Isomorfisms_Toroids","flare.Universality", "flare.Shape_of_Space"]},
-{"name":"flare.EscherGeometry","size":4,"imports":[]},
+{"name":"flare.Biology","size":1,"imports":["flare.Maturana_Varela","flare.Mandalas(ShapeofSpaceBook)","flare.IlyaPrigogine"]},
+{"name":"flare.Psichology","size":2,"imports":["flare.Penrose_ConformalCyclicCosmology","flare.VeraRubin_DarkMatter"]},
+{"name":"flare.Economy","size":3,"imports":["flare.Isomorfisms_Toroids","flare.Universality", "flare.Shape_of_Space"]},
+{"name":"flare.Maturana_Varela","size":4,"imports":[]},
 {"name":"flare.Mandalas(ShapeofSpaceBook)","size":5,"imports":[]},
 {"name":"flare.IlyaPrigogine","size":6,"imports":[]},
 {"name":"flare.Penrose_ConformalCyclicCosmology","size":7,"imports":[]},
