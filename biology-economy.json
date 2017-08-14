@@ -1,0 +1,13 @@
+[
+{"name":"flare.Macro_Resonances","size":3938,"imports":["flare.EscherGeometry","flare.Mandalas(ShapeofSpaceBook)","flare.IlyaPrigogine"]},
+{"name":"flare.Astrophysics","size":6714,"imports":["flare.Penrose_ConformalCyclicCosmology","flare.VeraRubin_DarkMatter"]},
+{"name":"flare.Math","size":743,"imports":["flare.Isomorfisms_Toroids","flare.Universality", "flare.Shape_of_Space"]},
+{"name":"flare.EscherGeometry","size":2822,"imports":[]},
+{"name":"flare.Mandalas(ShapeofSpaceBook)","size":2822,"imports":[]},
+{"name":"flare.IlyaPrigogine","size":2822,"imports":[]},
+{"name":"flare.Penrose_ConformalCyclicCosmology","size":2822,"imports":[]},
+{"name":"flare.VeraRubin_DarkMatter","size":2822,"imports":[]},
+{"name":"flare.Isomorfisms_Toroids","size":2822,"imports":[]},
+{"name":"flare.Shape_of_Space","size":2822,"imports":[]},
+{"name":"flare.Universality","size":2822,"imports":[]}
+]
